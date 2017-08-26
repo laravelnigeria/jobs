@@ -1,4 +1,4 @@
-# Jobs 🤘🤖🚀
+# Laravel Nigeria Jobs
 
 Laravel and PHP jobs available in Nigeria.
 
